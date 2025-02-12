@@ -8,7 +8,7 @@ export default defineConfig({
 		starlight({
 			title: 'Homeryland Docs',
 			social: {
-				github: 'https://github.com/withastro/starlight',
+				github: 'https://github.com/DarcyJason/docs',
 			},
 			sidebar: [
 				{
